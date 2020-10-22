@@ -1,18 +1,1 @@
-{
-  "name": "希望工作室文档",
-  "short_name": "希望工作室",
-  "description": "希望工作室文档",
-  "lang": "zh-CN",
-  "orientation": "portrait-primary",
-  "icons": [
-    {
-      "src": "/assets/icon/chrome192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#5c92d1"
-}
+{"name":"希望工作室文档","short_name":"希望工作室","description":"希望工作室文档","lang":"zh-CN","start_url":"./index.html","scope":"/","display":"standalone","theme_color":"#5c92d1","background_color":"#ffffff","orientation":"portrait-primary","prefer_related_applications":false,"icons":[{"src":"/assets/icon/chrome-192.png","sizes":"192x192","type":"image/png"},{"src":"/assets/icon/chrome-512.png","sizes":"512x512","type":"image/png"},{"src":"/assets/icon/chrome-mask-192.png","sizes":"192x192","purpose":"maskable","type":"image/png"},{"src":"/assets/icon/chrome-mask-512.png","sizes":"512x512","purpose":"maskable","type":"image/png"}]}
